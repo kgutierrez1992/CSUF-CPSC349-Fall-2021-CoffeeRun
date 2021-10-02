@@ -1,2 +1,5 @@
 #part of eslint
 node_modules
+
+#Cloud Storage File
+.DS_Store
