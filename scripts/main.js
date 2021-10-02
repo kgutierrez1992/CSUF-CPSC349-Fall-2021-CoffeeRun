@@ -35,8 +35,7 @@
                     'id': 'payment_form',
                 });
 
-                var $p = $('<p></p>');
-                $p.append('Thank you for your payment, ' + title + ' ' + data.username);
+                var $p = $('<p>Thank you for your payment, ' + title + ' ' + data.username + '</p>');
                 $div.append($p);
                 $div.append('<a href="#" rel="modal:close">Return to Order Page</a>');
 
