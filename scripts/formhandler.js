@@ -29,7 +29,6 @@
             this.reset();
             this.elements[0].focus();
         })
-        //do more things here.
 
         FormHandler.prototype.addInputHandler = function(fn){
             console.log('Setting input handler for form');

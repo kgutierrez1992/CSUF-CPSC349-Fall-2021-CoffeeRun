@@ -1,0 +1,22 @@
+section {
+    justify-content: center;
+    border: 1px solid black;
+    margin-bottom: 10px;
+    min-width: 40%;
+}
+
+ul {
+    list-style-type: none;
+}
+
+.panel {
+    margin: 25px;
+}
+
+.btn {
+    border: 1px solid slategray;
+}
+
+.button-group {
+    margin-top: 20px;
+}
